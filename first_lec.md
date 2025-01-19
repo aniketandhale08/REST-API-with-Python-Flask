@@ -43,10 +43,10 @@ $env:PYTHONDONTWRITEBYTECODE = "1"
 ```
 
 
-
-
-
-#### 
+- start the server by using the command to turn on the debug mode and to autosave the code changes
+```
+flask run --debug
+```
 
 
 
