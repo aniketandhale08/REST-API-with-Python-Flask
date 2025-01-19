@@ -22,7 +22,10 @@ Example
 .\API-flask\Scripts\activate
 ```
 
-#### 
+### Steps to Prevent __pycache__ Creation:
+```
+$env:PYTHONDONTWRITEBYTECODE = "1"
+```
 
 
 
