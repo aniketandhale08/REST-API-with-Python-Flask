@@ -29,8 +29,18 @@ $env:PYTHONDONTWRITEBYTECODE = "1"
 
 
 
-#### 
+#### Steps to perfrom for reactivating the virtual env
+```
+.\API-flask\Scripts\activate
+```
 
+```
+$env:FLASK_ENV = "development"
+```
+
+```
+$env:PYTHONDONTWRITEBYTECODE = "1"
+```
 
 
 
