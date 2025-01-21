@@ -4,7 +4,7 @@
 import user_controller
 ```
 
-- import the name of main file in new file
+- import the name of main file in new file.
 ```
 from app import app
 ```
