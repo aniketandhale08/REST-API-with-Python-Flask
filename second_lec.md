@@ -19,7 +19,3 @@ from app import app
 
 
 
-
-
-
-
