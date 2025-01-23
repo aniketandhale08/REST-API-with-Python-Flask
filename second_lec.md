@@ -21,5 +21,3 @@ from app import app
 
 
 
-
-
